@@ -13,5 +13,4 @@ This repo contains all project files which are implemented as part of Deep learn
 
 
 
-![Nvidia](https://github.com/raviteja-ganta/Deep-Learning-Specialization-Coursera/blob/master/NVIDIA_logo.jpg)
-
+![Nvidia](https://github.com/raviteja-ganta/Deep-Learning-Specialization-Coursera/blob/master/NVIDIA_logo.jpg) ![deeplearning.ai](https://github.com/raviteja-ganta/Deep-Learning-Specialization-Coursera/blob/master/deep%20learning.png)
